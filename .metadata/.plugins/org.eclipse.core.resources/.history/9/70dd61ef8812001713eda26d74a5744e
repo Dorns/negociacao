@@ -28,7 +28,7 @@ public class Mercadoria {
 	private int qtd;
 	
 	@Column(name="VL_PRECO")
-	private float preco; 	
+	private float preco; 
 	
 	@Column(name="NR_TIPO_NEGOC")
 	private TipoNegocio tipoNegocio;

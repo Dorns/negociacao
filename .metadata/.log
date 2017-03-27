@@ -257,3 +257,9 @@ Caused by: java.lang.IllegalArgumentException: Path must include project and res
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-26 21:52:28.893
 !MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-26 22:01:40.116
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-26 22:01:40.123
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
