@@ -1,0 +1,17 @@
+package br.com.mercadorias.entity;
+
+@Entity
+@Table(name = "TB_MERCADORIA")
+@SequenceGenerator(name = "seqMercadoria", sequenceName = "SQ_TB_MERCADORIA", allocationSize = 1)
+public class Mercadoria {
+	@Id
+	@Column(name = "CD_MERCADORIA")
+	@GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "seqAluno")
+	private int codigo;
+	private String tipo;
+	private String nome;
+	private int qrd;
+	private float preco;
+	private TipoNegocio tipoNegocio;
+
+}

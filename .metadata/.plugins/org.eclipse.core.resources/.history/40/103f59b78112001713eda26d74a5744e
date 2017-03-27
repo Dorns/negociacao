@@ -1,0 +1,13 @@
+package br.com.mercadorias.entity;
+
+@Entity
+
+public class Mercadoria {
+	private int codigo;
+	private String tipo;
+	private String nome;
+	private int qrd;
+	private float preco;
+	private TipoNegocio tipoNegocio;
+
+}

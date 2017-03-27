@@ -1,0 +1,259 @@
+!SESSION 2017-03-26 21:00:17.781 -----------------------------------------------
+eclipse.buildId=4.6.1.M20160907-1200
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product -data D:\Dev\repositorios\negociacao-mercadorias -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-03-26 21:00:30.681
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\felip'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.jface.text 2 0 2017-03-26 21:07:18.046
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-03-26 21:07:18.055
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-03-26 21:07:18.556
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-03-26 21:07:18.563
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-26 21:20:33.448
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-26 21:20:33.463
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-26 21:20:33.492
+!MESSAGE The POM for org.apache.maven.plugins:maven-clean-plugin:jar:2.5 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-26 21:20:33.517
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-26 21:20:51.668
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-26 21:20:51.675
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-26 21:20:51.688
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-26 21:21:00.952
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-26 21:21:00.959
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-26 21:21:00.968
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-26 21:21:04.150
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-26 21:21:04.157
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-26 21:21:04.168
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-26 21:26:38.966
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-26 21:26:38.976
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-26 21:26:38.989
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-26 21:26:40.882
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-26 21:26:40.889
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-26 21:26:40.898
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-26 21:27:14.731
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-26 21:27:14.738
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-26 21:27:14.747
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-26 21:27:47.141
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-26 21:27:47.148
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-26 21:27:47.159
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-26 21:27:48.520
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-26 21:27:48.526
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-26 21:31:39.161
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-26 21:31:39.169
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.wst.common.frameworks 4 0 2017-03-26 21:38:57.584
+!MESSAGE Error importing Module File
+!STACK 0
+org.eclipse.core.commands.ExecutionException: Error importing Module File
+	at org.eclipse.jst.j2ee.internal.archive.operations.J2EEArtifactImportOperation.doExecute(J2EEArtifactImportOperation.java:89)
+	at org.eclipse.jst.j2ee.internal.web.archive.operations.WebComponentImportOperation.doExecute(WebComponentImportOperation.java:70)
+	at org.eclipse.jst.j2ee.internal.archive.operations.J2EEArtifactImportOperation.execute(J2EEArtifactImportOperation.java:57)
+	at org.eclipse.wst.common.frameworks.internal.datamodel.DataModelPausibleOperationImpl$1.run(DataModelPausibleOperationImpl.java:385)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.wst.common.frameworks.internal.datamodel.DataModelPausibleOperationImpl.runOperation(DataModelPausibleOperationImpl.java:410)
+	at org.eclipse.wst.common.frameworks.internal.datamodel.DataModelPausibleOperationImpl.runOperation(DataModelPausibleOperationImpl.java:360)
+	at org.eclipse.wst.common.frameworks.internal.datamodel.DataModelPausibleOperationImpl.doExecute(DataModelPausibleOperationImpl.java:247)
+	at org.eclipse.wst.common.frameworks.internal.datamodel.DataModelPausibleOperationImpl.executeImpl(DataModelPausibleOperationImpl.java:219)
+	at org.eclipse.wst.common.frameworks.internal.datamodel.DataModelPausibleOperationImpl.cacheThreadAndContinue(DataModelPausibleOperationImpl.java:89)
+	at org.eclipse.wst.common.frameworks.internal.datamodel.DataModelPausibleOperationImpl.execute(DataModelPausibleOperationImpl.java:207)
+	at org.eclipse.wst.common.frameworks.internal.datamodel.ui.DataModelWizard$1CatchThrowableRunnableWithProgress.run(DataModelWizard.java:220)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:119)
+Caused by: org.eclipse.wst.common.frameworks.internal.enablement.nonui.WFTWrappedException: Error importing Module File
+	at org.eclipse.jst.j2ee.internal.archive.operations.J2EEArtifactImportOperation.importModuleFile(J2EEArtifactImportOperation.java:127)
+	at org.eclipse.jst.j2ee.internal.archive.operations.J2EEArtifactImportOperation.doExecute(J2EEArtifactImportOperation.java:87)
+	... 13 more
+Caused by: org.eclipse.jst.jee.archive.ArchiveSaveFailureException: java.lang.IllegalArgumentException: Path must include project and resource name: /ImportedClasses
+	at org.eclipse.jst.jee.archive.AbstractArchiveSaveAdapter.save(AbstractArchiveSaveAdapter.java:89)
+	at org.eclipse.jst.j2ee.internal.archive.ComponentArchiveSaveAdapter.save(ComponentArchiveSaveAdapter.java:117)
+	at org.eclipse.jst.j2ee.internal.archive.J2EEComponentArchiveSaveAdapter.save(J2EEComponentArchiveSaveAdapter.java:55)
+	at org.eclipse.jst.jee.archive.internal.ArchiveFactoryImpl.save(ArchiveFactoryImpl.java:115)
+	at org.eclipse.jst.jee.archive.internal.ArchiveFactoryImpl.saveArchive(ArchiveFactoryImpl.java:134)
+	at org.eclipse.jst.j2ee.internal.archive.operations.J2EEArtifactImportOperation.importModuleFile(J2EEArtifactImportOperation.java:123)
+	... 14 more
+Caused by: java.lang.IllegalArgumentException: Path must include project and resource name: /ImportedClasses
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:63)
+	at org.eclipse.core.internal.resources.Workspace.newResource(Workspace.java:2068)
+	at org.eclipse.core.internal.resources.Container.getFolder(Container.java:202)
+	at org.eclipse.jst.j2ee.internal.archive.J2EEComponentArchiveSaveAdapter.createImportedClassesFolder(J2EEComponentArchiveSaveAdapter.java:103)
+	at org.eclipse.jst.j2ee.internal.archive.J2EEComponentArchiveSaveAdapter.shouldSave(J2EEComponentArchiveSaveAdapter.java:80)
+	at org.eclipse.jst.jee.archive.AbstractArchiveSaveAdapter.save(AbstractArchiveSaveAdapter.java:71)
+	... 19 more
+
+!ENTRY org.eclipse.wst.common.frameworks 4 0 2017-03-26 21:38:57.682
+!MESSAGE Extended Operation failure: org.eclipse.jst.j2ee.internal.web.archive.operations.WebComponentImportOperation
+!STACK 0
+org.eclipse.core.commands.ExecutionException: Error importing Module File
+	at org.eclipse.jst.j2ee.internal.archive.operations.J2EEArtifactImportOperation.doExecute(J2EEArtifactImportOperation.java:89)
+	at org.eclipse.jst.j2ee.internal.web.archive.operations.WebComponentImportOperation.doExecute(WebComponentImportOperation.java:70)
+	at org.eclipse.jst.j2ee.internal.archive.operations.J2EEArtifactImportOperation.execute(J2EEArtifactImportOperation.java:57)
+	at org.eclipse.wst.common.frameworks.internal.datamodel.DataModelPausibleOperationImpl$1.run(DataModelPausibleOperationImpl.java:385)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.wst.common.frameworks.internal.datamodel.DataModelPausibleOperationImpl.runOperation(DataModelPausibleOperationImpl.java:410)
+	at org.eclipse.wst.common.frameworks.internal.datamodel.DataModelPausibleOperationImpl.runOperation(DataModelPausibleOperationImpl.java:360)
+	at org.eclipse.wst.common.frameworks.internal.datamodel.DataModelPausibleOperationImpl.doExecute(DataModelPausibleOperationImpl.java:247)
+	at org.eclipse.wst.common.frameworks.internal.datamodel.DataModelPausibleOperationImpl.executeImpl(DataModelPausibleOperationImpl.java:219)
+	at org.eclipse.wst.common.frameworks.internal.datamodel.DataModelPausibleOperationImpl.cacheThreadAndContinue(DataModelPausibleOperationImpl.java:89)
+	at org.eclipse.wst.common.frameworks.internal.datamodel.DataModelPausibleOperationImpl.execute(DataModelPausibleOperationImpl.java:207)
+	at org.eclipse.wst.common.frameworks.internal.datamodel.ui.DataModelWizard$1CatchThrowableRunnableWithProgress.run(DataModelWizard.java:220)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:119)
+Caused by: org.eclipse.wst.common.frameworks.internal.enablement.nonui.WFTWrappedException: Error importing Module File
+	at org.eclipse.jst.j2ee.internal.archive.operations.J2EEArtifactImportOperation.importModuleFile(J2EEArtifactImportOperation.java:127)
+	at org.eclipse.jst.j2ee.internal.archive.operations.J2EEArtifactImportOperation.doExecute(J2EEArtifactImportOperation.java:87)
+	... 13 more
+Caused by: org.eclipse.jst.jee.archive.ArchiveSaveFailureException: java.lang.IllegalArgumentException: Path must include project and resource name: /ImportedClasses
+	at org.eclipse.jst.jee.archive.AbstractArchiveSaveAdapter.save(AbstractArchiveSaveAdapter.java:89)
+	at org.eclipse.jst.j2ee.internal.archive.ComponentArchiveSaveAdapter.save(ComponentArchiveSaveAdapter.java:117)
+	at org.eclipse.jst.j2ee.internal.archive.J2EEComponentArchiveSaveAdapter.save(J2EEComponentArchiveSaveAdapter.java:55)
+	at org.eclipse.jst.jee.archive.internal.ArchiveFactoryImpl.save(ArchiveFactoryImpl.java:115)
+	at org.eclipse.jst.jee.archive.internal.ArchiveFactoryImpl.saveArchive(ArchiveFactoryImpl.java:134)
+	at org.eclipse.jst.j2ee.internal.archive.operations.J2EEArtifactImportOperation.importModuleFile(J2EEArtifactImportOperation.java:123)
+	... 14 more
+Caused by: java.lang.IllegalArgumentException: Path must include project and resource name: /ImportedClasses
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:63)
+	at org.eclipse.core.internal.resources.Workspace.newResource(Workspace.java:2068)
+	at org.eclipse.core.internal.resources.Container.getFolder(Container.java:202)
+	at org.eclipse.jst.j2ee.internal.archive.J2EEComponentArchiveSaveAdapter.createImportedClassesFolder(J2EEComponentArchiveSaveAdapter.java:103)
+	at org.eclipse.jst.j2ee.internal.archive.J2EEComponentArchiveSaveAdapter.shouldSave(J2EEComponentArchiveSaveAdapter.java:80)
+	at org.eclipse.jst.jee.archive.AbstractArchiveSaveAdapter.save(AbstractArchiveSaveAdapter.java:71)
+	... 19 more
+!SUBENTRY 1 org.eclipse.wst.common.frameworks 4 0 2017-03-26 21:38:57.682
+!MESSAGE Extended Operation failure: org.eclipse.jst.j2ee.internal.web.archive.operations.WebComponentImportOperation
+!STACK 0
+org.eclipse.core.commands.ExecutionException: Error importing Module File
+	at org.eclipse.jst.j2ee.internal.archive.operations.J2EEArtifactImportOperation.doExecute(J2EEArtifactImportOperation.java:89)
+	at org.eclipse.jst.j2ee.internal.web.archive.operations.WebComponentImportOperation.doExecute(WebComponentImportOperation.java:70)
+	at org.eclipse.jst.j2ee.internal.archive.operations.J2EEArtifactImportOperation.execute(J2EEArtifactImportOperation.java:57)
+	at org.eclipse.wst.common.frameworks.internal.datamodel.DataModelPausibleOperationImpl$1.run(DataModelPausibleOperationImpl.java:385)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.wst.common.frameworks.internal.datamodel.DataModelPausibleOperationImpl.runOperation(DataModelPausibleOperationImpl.java:410)
+	at org.eclipse.wst.common.frameworks.internal.datamodel.DataModelPausibleOperationImpl.runOperation(DataModelPausibleOperationImpl.java:360)
+	at org.eclipse.wst.common.frameworks.internal.datamodel.DataModelPausibleOperationImpl.doExecute(DataModelPausibleOperationImpl.java:247)
+	at org.eclipse.wst.common.frameworks.internal.datamodel.DataModelPausibleOperationImpl.executeImpl(DataModelPausibleOperationImpl.java:219)
+	at org.eclipse.wst.common.frameworks.internal.datamodel.DataModelPausibleOperationImpl.cacheThreadAndContinue(DataModelPausibleOperationImpl.java:89)
+	at org.eclipse.wst.common.frameworks.internal.datamodel.DataModelPausibleOperationImpl.execute(DataModelPausibleOperationImpl.java:207)
+	at org.eclipse.wst.common.frameworks.internal.datamodel.ui.DataModelWizard$1CatchThrowableRunnableWithProgress.run(DataModelWizard.java:220)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:119)
+Caused by: org.eclipse.wst.common.frameworks.internal.enablement.nonui.WFTWrappedException: Error importing Module File
+	at org.eclipse.jst.j2ee.internal.archive.operations.J2EEArtifactImportOperation.importModuleFile(J2EEArtifactImportOperation.java:127)
+	at org.eclipse.jst.j2ee.internal.archive.operations.J2EEArtifactImportOperation.doExecute(J2EEArtifactImportOperation.java:87)
+	... 13 more
+Caused by: org.eclipse.jst.jee.archive.ArchiveSaveFailureException: java.lang.IllegalArgumentException: Path must include project and resource name: /ImportedClasses
+	at org.eclipse.jst.jee.archive.AbstractArchiveSaveAdapter.save(AbstractArchiveSaveAdapter.java:89)
+	at org.eclipse.jst.j2ee.internal.archive.ComponentArchiveSaveAdapter.save(ComponentArchiveSaveAdapter.java:117)
+	at org.eclipse.jst.j2ee.internal.archive.J2EEComponentArchiveSaveAdapter.save(J2EEComponentArchiveSaveAdapter.java:55)
+	at org.eclipse.jst.jee.archive.internal.ArchiveFactoryImpl.save(ArchiveFactoryImpl.java:115)
+	at org.eclipse.jst.jee.archive.internal.ArchiveFactoryImpl.saveArchive(ArchiveFactoryImpl.java:134)
+	at org.eclipse.jst.j2ee.internal.archive.operations.J2EEArtifactImportOperation.importModuleFile(J2EEArtifactImportOperation.java:123)
+	... 14 more
+Caused by: java.lang.IllegalArgumentException: Path must include project and resource name: /ImportedClasses
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:63)
+	at org.eclipse.core.internal.resources.Workspace.newResource(Workspace.java:2068)
+	at org.eclipse.core.internal.resources.Container.getFolder(Container.java:202)
+	at org.eclipse.jst.j2ee.internal.archive.J2EEComponentArchiveSaveAdapter.createImportedClassesFolder(J2EEComponentArchiveSaveAdapter.java:103)
+	at org.eclipse.jst.j2ee.internal.archive.J2EEComponentArchiveSaveAdapter.shouldSave(J2EEComponentArchiveSaveAdapter.java:80)
+	at org.eclipse.jst.jee.archive.AbstractArchiveSaveAdapter.save(AbstractArchiveSaveAdapter.java:71)
+	... 19 more
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-26 21:51:35.607
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-26 21:51:35.620
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-26 21:51:35.634
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-26 21:51:37.205
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-26 21:51:37.259
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-26 21:51:43.346
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-26 21:51:43.356
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-26 21:52:28.875
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-26 21:52:28.883
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-03-26 21:52:28.893
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
