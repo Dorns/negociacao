@@ -1,0 +1,11 @@
+.center{
+
+  margin: 40px auto;  
+}
+.mayus{width:500px; display:block; margin:0 auto;}
+.mayus p{font-size:12px;}
+article p::first-letter {
+  float: left;
+  font-size: 300%;
+  margin: 0 10px 10px 0;
+}

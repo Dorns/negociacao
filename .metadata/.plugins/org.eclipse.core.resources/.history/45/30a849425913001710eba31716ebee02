@@ -1,0 +1,25 @@
+<div class="bloco2"> 
+<br/>
+	<br/>
+	## Change Log ## <br/>
+	<br/>
+	Versão 4.0<br/>
+	- Funcionalidade Listar Processo por busca, Nº do Processo e Cliente criada via JDBC;<br/>
+	<br/>
+	Versão 5.0<br/>
+	- Fix da Funcionalidade Listar Processo na busca por periodo;<br/>
+	- Apontamentos criados para a pagina lancamento de dispesa a partir da listagem de processos;<br/>
+	- Correção do formato da data no datepicker;<br/>
+	<br/>
+	Versão 6.0<br/>
+	- Funcionalidade lançar despesa criada com inserts no Banco;<br/>
+	<br/>
+	Versão 7.0<br/>
+	- Funcionalidade listar despesas criada com conexao com Banco;<br/>
+	<br/>
+	Versão 8.0<br/>
+	- Demais classes criadas;<br/>
+	- JavaDoc criado;<br/>
+	- Tratamento Exceções criado;<br/>
+	<br/> 
+</div>

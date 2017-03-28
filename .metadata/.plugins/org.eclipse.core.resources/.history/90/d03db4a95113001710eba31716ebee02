@@ -1,0 +1,56 @@
+$(document).ready(function() {
+	$("#formMercadoria").validate({
+		// Define as regras
+		rules : {
+			cdMercadoria : {
+				required : true,
+				number : true
+			},
+			tpoMercadoria : {
+				required : true,
+				maxlength : 40
+			},
+			nmMercadoria : {
+				required : true,
+				maxlength : 40
+			},
+			qtdMercadoria : {
+				required : true,
+				number : true
+			},
+			vlrMercadoria : {
+				required : true,
+				number : true
+			},
+			tpoNegociacao : {
+				required : true,
+			}
+		},
+		messages : {
+			cdMercadoria : {
+				required : "Esse campo não pode ser vazio",
+				number : "Este campo e&acute; numerico"
+			},
+			tpoMercadoria : {
+				required : "Esse campo não pode ser vazio",
+				maxlength : "Apenas 40 caracteres"
+			},
+			nmMercadoria : {
+				required : "Esse campo não pode ser vazio",
+				maxlength : "Apenas 40 caracteres"
+			},
+			qtdMercadoria : {
+				required : "Esse campo não pode ser vazio",
+				number : "Este campo é numerico"
+			},
+			vlrMercadoria : {
+				required : "Esse campo não pode ser vazio",
+				number : "Este campo é numerico"
+			},
+			tpoNegociacao : {
+				required : "Esse campo não pode ser vazio",
+			}
+
+		}
+	});
+});

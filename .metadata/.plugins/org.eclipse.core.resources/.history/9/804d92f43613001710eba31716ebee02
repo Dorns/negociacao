@@ -1,0 +1,8 @@
+package br.com.mercadorias.dao.impl;
+
+import br.com.mercadorias.dao.MercadoriaDAO;
+import br.com.mercadorias.entity.Mercadoria;
+
+public class MercadoriaDAOImpl extends GenericDAOImpl<Mercadoria, Integer> implements MercadoriaDAO{
+
+}

@@ -1,0 +1,58 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+	pageEncoding="ISO-8859-1"%>
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Negociação de Mercadorias</title>
+<%@ include file="snipets/imports.jsp"%>
+<jsp:include page="snipets/cabecalho.html"></jsp:include>
+</head>
+<body>
+	<form class="container">
+		<div class="form-group">
+			<label class="control-label col-sm-2" for="codigoMercadoria">Código:</label>
+			<div class="col-sm-10">
+				<input type="text" class="form-control" id="cdMercadoria"
+					placeholder="Entre com o código da mercadoria">
+			</div>
+		</div>
+		<div class="form-group">
+			<label class="control-label col-sm-2" for="tipoMercadoria">Tipo
+				de Mercadoria:</label>
+			<div class="col-sm-10">
+				<input type="text" class="form-control" id="tpoMercadoria"
+					placeholder="Entre com o Tipo da Mercadoria">
+			</div>
+		</div>
+		<div class="form-group">
+			<label class="control-label col-sm-2" for="nomeMercadoria">Nome
+				da Mercadoria:</label>
+			<div class="col-sm-10">
+				<input type="text" class="form-control" id="nmMercadoria"
+					placeholder="Entre com o Nome da Mercadoria">
+			</div>
+		</div>
+		<div class="control-label col-sm-2">
+			<label class="control-label col-sm-2" for="nomeMercadoria">Nome
+				da Mercadoria:</label>
+			<div class="input-group">
+				<span class="input-group-btn">
+					<button type="button" class="btn btn-default btn-number"
+						disabled="disabled" data-type="minus" data-field="quant[1]">
+						<span class="glyphicon glyphicon-minus"></span>
+					</button>
+				</span> <input type="text" name="quant[1]"
+					class="form-control input-number" value="1" min="1" max="10">
+				<span class="input-group-btn">
+					<button type="button" class="btn btn-default btn-number"
+						data-type="plus" data-field="quant[1]">
+						<span class="glyphicon glyphicon-plus"></span>
+					</button>
+				</span>
+			</div>
+		</div>
+		<button type="submit" class="btn btn-default">Submit</button>
+	</form>
+</html>

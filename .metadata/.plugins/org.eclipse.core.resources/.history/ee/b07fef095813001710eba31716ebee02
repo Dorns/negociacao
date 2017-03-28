@@ -1,0 +1,11 @@
+package br.com.mercadorias.bo;
+
+import br.com.mercadorias.entity.Mercadoria;
+
+public class Teste {
+	public static void main(String[] args) {
+		Mercadoria m = new Mercadoria();
+	}
+	
+	
+}

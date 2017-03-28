@@ -1,0 +1,40 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+	pageEncoding="ISO-8859-1"%>
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Negociação de Mercadorias</title>
+<%@ include file="snipets/imports.jsp"%>
+<jsp:include page="snipets/cabecalho.html"></jsp:include>
+</head>
+<body>
+	<form class="col-md-4 col-md-offset-4">
+		<div class="form-group">
+			<label class="control-label col-sm-2" for="codigoMercadoria">Código:</label>
+			<div class="col-sm-10">
+				<input type="text" class="form-control" id="cdMercadoria"
+					placeholder="Entre com o código da mercadoria">
+			</div>
+		</div>
+		<div class="form-group">
+			<label class="control-label col-sm-2" for="tipoMercadoria">Tipo
+				de Mercadoria:</label>
+			<div class="col-sm-10">
+				<input type="text" class="form-control" id="tpoMercadoria"
+					placeholder="Entre com o Tipo da Mercadoria">
+			</div>
+		</div>
+		<div class="form-group">
+			<label class="control-label col-sm-2" for="nomeMercadoria">Nome
+				da Mercadoria:</label>
+			<div class="col-sm-10">
+				<input type="text" class="form-control" id="nmMercadoria"
+					placeholder="Entre com o Nome da Mercadoria">
+			</div>
+		</div>
+
+		<button type="submit" class="btn btn-default center">Submit</button>
+	</form>
+</html>

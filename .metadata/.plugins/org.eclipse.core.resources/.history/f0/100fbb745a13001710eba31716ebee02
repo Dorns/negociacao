@@ -1,0 +1,71 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>LCA ADVOGADOS</title>
+	<%@ include file="snipets/imports.jsp"%>
+</head>
+<body>
+
+<header class="topo">
+		<!-- Logo da Empresa -->
+		<!-- <img alt="Logo" id="logo" src="WebContent/img/lca-advogados.png"> -->
+		<jsp:include page="snipets/cabecalho.html"></jsp:include>
+		<h2> 
+			${msgTitulo eq null ? 'Início' : msgTitulo}
+		</h2>
+
+<nav class="menu">
+
+<%-- 	<c:if test="${validaUser eq true}"> --%>
+		<ul>
+			<li><a href="ServletLCA?page=inicio.jsp"> | início | </a></li>
+			<!-- <li><a href="ServletLCA?page=lancarDespesa.jsp">| Lançar Despesa |</a></li>
+			<li><a href="ServletLCA?page=lancarHonorarios.jsp">| Lançar Honorário |</a></li> -->
+			<li><a href="ServletLCA?page=listarProcessos.jsp">| Listar Processos |</a></li>
+		</ul>
+<%-- 	</c:if> --%>
+	
+</nav>
+
+
+
+</header>
+
+
+<c:if test="${not empty primeiroNome}">
+	<div style="float: right; color: red;">Usuário logado: ${primeiroNome}</div>
+</c:if>
+
+<div class="statusCad">${msgStatus}</div>
+
+
+
+<section class="conteudo">
+	
+<%-- 	<c:choose>
+		<c:when test="${validaUser eq true}">
+			<jsp:include page="WEB-INF/jsp/${page eq null ? 'inicio.jsp' : page}"></jsp:include>
+		</c:when>
+		<c:otherwise>
+			<jsp:include page="snipets/login.jsp"></jsp:include>
+		</c:otherwise>
+	</c:choose>
+ --%>
+ 
+ <jsp:include page="WEB-INF/jsp/${page eq null ? 'inicio.jsp' : page}"></jsp:include>
+ 
+ 		
+</section>
+
+<footer class="rodape">
+		<h4>Advocacia LCA® Todos os Direitos Reservados.</h4>
+	</footer>
+
+
+
+
+</body>
+</html>

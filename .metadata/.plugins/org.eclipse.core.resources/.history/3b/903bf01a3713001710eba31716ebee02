@@ -1,0 +1,38 @@
+package br.com.mercadorias.bo;
+
+import java.util.List;
+
+import javax.persistence.EntityManager;
+import javax.persistence.EntityManagerFactory;
+
+import br.com.mercadorias.dao.MercadoriaDAO;
+import br.com.mercadorias.dao.impl.MercadoriaDAOImpl;
+import br.com.mercadorias.entity.Mercadoria;
+import br.com.mercadorias.factory.EntityManagerFactorySingleton;
+import br.com.mercadorias.exception.DBException;
+
+public class MercadoriaBO {
+	private EntityManagerFactory fabrica = EntityManagerFactorySingleton.getInstance();
+	
+	public void cadastrar(Mercadoria mercadoria){
+		EntityManager em = fabrica.createEntityManager();
+		MercadoriaDAO dao = new MercadoriaDAOImpl(em);
+		dao.cadastrar(mercadoria);
+		try {
+			dao.salvar();
+		} catch (DBException e) {
+			e.printStackTrace();
+		}finally{
+			em.close();	
+		}
+	}
+	
+	public List<Mercadoria> listar(int codigo){
+		EntityManager em = fabrica.createEntityManager();
+		MercadoriaDAO dao = new MercadoriaDAOImpl(em);
+		List<Mercadoria> cli = dao.listar();
+		em.close();
+		return cli;
+	}
+
+}

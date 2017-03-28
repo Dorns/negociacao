@@ -1,0 +1,9 @@
+package br.com.mercadorias.bo;
+
+public class Teste {
+	public static void main(String[] args) {
+		Mercadoria m = new Mercadoria();
+	}
+	
+	
+}

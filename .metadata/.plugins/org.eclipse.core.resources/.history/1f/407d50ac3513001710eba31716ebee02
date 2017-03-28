@@ -1,0 +1,5 @@
+package br.com.mercadorias.dao;
+
+public class MercadoriaDAO {
+
+}

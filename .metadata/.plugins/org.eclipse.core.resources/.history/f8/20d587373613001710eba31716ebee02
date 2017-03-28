@@ -1,0 +1,7 @@
+package br.com.mercadorias.dao;
+
+import br.com.mercadorias.entity.Mercadoria;
+
+public interface MercadoriaDAO extends GenericDAO<Mercadoria, Integer>{
+
+}

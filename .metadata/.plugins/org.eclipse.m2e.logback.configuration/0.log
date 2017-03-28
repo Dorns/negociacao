@@ -186,3 +186,7 @@
 2017-03-26 22:01:40,122 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Dev\repositorios\negociacao-mercadorias\Mercadoria\src\main\resources
 2017-03-26 22:01:40,123 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2017-03-26 22:01:40,128 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Dev\repositorios\negociacao-mercadorias\Mercadoria\src\test\resources
+2017-03-27 00:40:42,965 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-27 00:40:42,974 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Dev\repositorios\negociacao-mercadorias\Mercadoria\src\main\resources
+2017-03-27 00:40:42,978 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-27 00:40:42,983 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Dev\repositorios\negociacao-mercadorias\Mercadoria\src\test\resources
