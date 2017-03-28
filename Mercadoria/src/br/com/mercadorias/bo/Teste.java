@@ -1,18 +1,19 @@
 package br.com.mercadorias.bo;
 
+import java.util.List;
+
 import br.com.mercadorias.entity.Mercadoria;
-import br.com.mercadorias.entity.TipoNegocio;
 
 public class Teste {
 	public static void main(String[] args) {
 		Mercadoria m = new Mercadoria();
 		m.setCodigo(0);
-		m.setNome("Teste");
-		m.setPreco(1);
-		m.setQtd(1);
-		m.setTipo("teste");
-		m.setTipoNegocio(TipoNegocio.COMPRA);
 		MercadoriaBO bo = new MercadoriaBO();
-		bo.cadastrar(m);
+
+		List<Mercadoria> mercadorias = bo.listar(m.getCodigo());
+
+		for (Mercadoria mercadoria : mercadorias) {
+			System.out.println(mercadoria.getNome());
+		}
 	}
 }

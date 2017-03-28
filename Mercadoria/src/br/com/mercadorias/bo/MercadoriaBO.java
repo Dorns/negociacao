@@ -30,9 +30,9 @@ public class MercadoriaBO {
 	public List<Mercadoria> listar(int codigo){
 		EntityManager em = fabrica.createEntityManager();
 		MercadoriaDAO dao = new MercadoriaDAOImpl(em);
-		List<Mercadoria> cli = dao.listar();
+		List<Mercadoria> mercadorias = dao.listar();
 		em.close();
-		return cli;
+		return mercadorias;
 	}
 
 }
